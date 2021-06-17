@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Table By Contributor</title>
+        <meta name="viewport" content="width:device-width; initial-scale=1">
+    </head>
+    <body>
+        <h1>Akash Table</h1>
+        <table>
+            <thead>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Roll</th>
+                <th>Section</th>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Akash</td>
+                    <td>Porwal</td>
+                    <td>19016401000</td>
+                    <td>A</td>
+                    
+                </tr>
+                <tr>
+                    <td>Rahul</td>
+                    <td>Awasthu</td>
+                    <td>1933737</td>
+                    <td>B</td>
+                    
+                </tr>
+<tr>
+                    <td>Bucky</td>
+                    <td>Bro</td>
+                    <td>19343337</td>
+                    <td>C</td>
+                    
+                </tr>
+<tr>
+                    <td>Adarsh</td>
+                    <td>Biro</td>
+                    <td>193111113737</td>
+                    <td>B</td>
+                    
+                </tr>
+                
+                
+                
+                
+            </tbody>
+        </table>
+    </body>
+</html>
