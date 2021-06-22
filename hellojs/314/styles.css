@@ -1,0 +1,8 @@
+body {
+    font-variant-caps: all-small-caps;
+    text-align: center;
+}
+#greeting {
+    color:cornflowerblue;
+    font-size: 90px;
+}
